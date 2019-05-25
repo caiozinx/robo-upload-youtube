@@ -1,0 +1,22 @@
+{
+  "name": "robo-upload-youtube",
+  "version": "1.0.0",
+  "description": "robo felipe-deschamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiozinx/robo-upload-youtube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiozinx/robo-upload-youtube/issues"
+  },
+  "homepage": "https://github.com/caiozinx/robo-upload-youtube#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
